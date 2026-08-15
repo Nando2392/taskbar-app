@@ -4,6 +4,15 @@ App de escritorio en Tkinter para Windows que añade una barra flotante sobre
 el escritorio con accesos rápidos (estilo dock), con tema oscuro, color de
 acento y barra de progreso. Se distribuye como `.exe` (PyInstaller).
 
+## ⬇️ Descargar y ejecutar (sin instalar nada)
+
+**[Descarga el .exe desde Releases](https://github.com/Nando2392/taskbar-app/releases/latest)**
+y haz doble clic. Funciona en Windows 10/11 sin Python ni dependencias.
+
+> El .exe se compila automáticamente con GitHub Actions al publicar una versión
+> (tag `v*`); también puedes lanzar el build a mano desde la pestaña Actions →
+> *build-exe* → *Run workflow*.
+
 ## Estructura
 
 | Archivo | Rol |
